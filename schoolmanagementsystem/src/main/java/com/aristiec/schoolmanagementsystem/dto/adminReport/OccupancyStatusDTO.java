@@ -1,0 +1,15 @@
+package com.aristiec.schoolmanagementsystem.dto.adminReport;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class OccupancyStatusDTO {
+    private int occupiedRooms;
+    private int vacantRooms;
+    private int occupiedBeds;
+    private int vacantBeds;
+}
