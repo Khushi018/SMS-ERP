@@ -2,8 +2,19 @@
 
 A comprehensive Java-based School Management System designed for modern educational institutions. This project features intuitive role-based dashboards, robust CRUD modules, and seamless management for students, faculty, staff, and administrators.
 
----
+## Technologies Used
 
+- **Java 21** (100%)
+- Springboot 3.x
+- Spring Security 6 + JWT
+- MySQL
+- REST APIs
+- GCP server
+- Docker
+- Spring AOP
+- Jasper Report
+- CQRS pattern 
+---
 ## Features
 
 - **Multi-role Authentication:**  
@@ -43,7 +54,7 @@ A comprehensive Java-based School Management System designed for modern educatio
 
 ### 1. Authentication Pages
 
-#### User Pages (Student/Faculty)
+#### User Pages (Student/Faculty/parent/Admin)
 - **Login:** Email, Password, Role Switch
 - **Signup:** Name, Email, Mobile, Password, Confirm Password
 
@@ -122,15 +133,6 @@ A comprehensive Java-based School Management System designed for modern educatio
 
 ---
 
-## Technologies Used
-
-- **Java** (100%)
-- Springboot
-- MySQL
-- REST APIs
-- GCP server
-- Dcoker
-- Spring AOP
   
 
 
