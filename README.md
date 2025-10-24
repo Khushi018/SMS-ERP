@@ -4,7 +4,7 @@ A comprehensive Java-based School Management System designed for modern educatio
 
 ## Technologies Used
 
-- **Java 21** (100%)
+- Java 21
 - Springboot 3.x
 - Spring Security 6 + JWT
 - MySQL
